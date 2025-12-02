@@ -4,7 +4,7 @@ azure-search-documents==11.4.0
 azure-ai-ml==1.16.0
 promptflow[azure]==1.11.0
 promptflow-tracing==1.11.0
-promptflow-tools==1.4.0
+promptflow-tools==1.6.0
 promptflow-rag==0.1.0
 promptflow-evals==0.3.0
 jinja2
