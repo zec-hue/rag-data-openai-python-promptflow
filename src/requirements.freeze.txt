@@ -145,7 +145,7 @@ Flask==3.0.3
 pandas==2.2.2
 strictyaml==1.7.3
 cryptography==42.0.8
-PyNaCl==1.5.0
+PyNaCl==1.6.2
 google-auth==2.30.0
 graphene==3.3
 pydantic==2.7.4
