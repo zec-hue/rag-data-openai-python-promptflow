@@ -25,7 +25,7 @@ shellingham==1.5.4
 pyasn1==0.6.0
 PyJWT==2.8.0
 graphql-core==3.2.3
-pillow==10.3.0
+pillow==12.1.1
 click==8.1.7
 entrypoints==0.4
 fonttools==4.53.0
